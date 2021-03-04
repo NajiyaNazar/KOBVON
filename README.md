@@ -29,6 +29,6 @@ As an organization goes through the online application process to acquire regist
 <p>TBD.</p>
 
 <h2>References</h2>
-<a href="https://github.com/bcgov/von">GitHub Repo for BCGOV's VON</a>
-<a href="https://vonx.io/">Website for VON</a>
-<a href="https://learning.edx.org/">Edex</a>
+#<a href="https://github.com/bcgov/von">GitHub Repo for BCGOV's VON</a>
+#<a href="https://vonx.io/">Website for VON</a>
+#<a href="https://learning.edx.org/">Edex</a>
